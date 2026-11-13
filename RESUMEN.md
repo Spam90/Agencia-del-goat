@@ -51,3 +51,8 @@ En el contexto recuperado aparecen como ejemplos de oferta las landing pages y l
 - [Tareas pendientes](docs/tareas-pendientes.md).
 - [Glosario](docs/glosario.md).
 - [Anexo consolidado del 13-11-2026](docs/anexo-contexto-consolidado-2026-11-13.md).
+
+
+## Archivo del logo
+
+El usuario ya subió el logo de la agencia al repositorio: **[`logo.png`](logo.png)**, ubicado en la raíz. Es el recurso visual de referencia que debe utilizarse en diseños y materiales de marca. No debe sustituirse por recreaciones ni deformarse.
