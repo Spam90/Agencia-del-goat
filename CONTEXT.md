@@ -75,3 +75,10 @@ Pendiente de concretar:
 
 ## Nota de integridad
 Este archivo recoge todo lo que está disponible en el contexto actual del proyecto. No pretende inventar datos que se definieron en otros chats y que no están visibles aquí.
+
+
+## Archivo de logo disponible
+- **Confirmado:** el usuario subió el logo de referencia de la agencia como `logo.png` en la raíz del repositorio.
+- Ruta: `/logo.png` ([ver archivo](logo.png)).
+- Consultar y utilizar este archivo como referencia antes de crear materiales visuales, interfaces o aplicaciones de marca.
+- No sustituirlo por versiones inventadas ni deformarlo. Las variantes adicionales requieren indicación o aprobación del usuario.
