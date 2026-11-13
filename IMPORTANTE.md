@@ -36,3 +36,12 @@
 ## Regla permanente
 
 **Toda IA que trabaje en este proyecto debe agregar al repositorio cualquier información nueva y relevante que produzca o confirme durante el trabajo.** Debe hacerlo sin borrar el historial, respetando las reglas anteriores y verificando que el guardado haya tenido éxito.
+
+
+## Recurso de marca obligatorio: logo
+
+- El usuario subió el archivo oficial de referencia del logo a la raíz del repositorio: **`logo.png`**.
+- Ruta: `/logo.png` — [ver logo.png](logo.png).
+- Antes de crear, editar o proponer piezas visuales de la agencia, toda IA debe consultar este archivo y utilizarlo como referencia de marca.
+- No redibujar, sustituir, deformar ni inventar una versión alternativa del logo. Si se necesita una variante, solicitarla o trabajarla respetando el archivo original y las indicaciones del usuario.
+- No asumir detalles técnicos del archivo (dimensiones, transparencia, variantes o formatos alternativos) sin inspeccionarlo.
