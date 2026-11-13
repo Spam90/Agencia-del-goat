@@ -23,3 +23,15 @@ Este repositorio es la fuente central de contexto del proyecto. Conserva decisio
 - No inventar datos que no estén documentados.
 - Actualizar este repositorio cuando se tome una decisión o surja información relevante.
 - Mantener el contexto operativo breve y enlazar los detalles desde `docs/`.
+
+
+## Logo
+
+El logo de referencia está disponible en la raíz del repositorio como [`logo.png`](logo.png). Consultar `IMPORTANTE.md` antes de realizar trabajos visuales o de marca.
+
+## Orden de lectura obligatorio
+
+1. [IMPORTANTE.md](IMPORTANTE.md) — instrucciones prioritarias para todas las IAs y colaboradores.
+2. [RESUMEN.md](RESUMEN.md) — resumen general pensado para el usuario.
+3. [CONTEXT.md](CONTEXT.md) — contexto operativo detallado.
+4. Documentación de `docs/` según la tarea.
